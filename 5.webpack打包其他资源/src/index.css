@@ -1,0 +1,10 @@
+
+
+@font-face {
+	font-family:loverabbit;
+	src: url(./loverabbit.ttf);
+}
+
+html,body{
+	font-family: loverabbit;
+}

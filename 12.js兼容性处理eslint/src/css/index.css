@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#box{
+	width: 100px;
+	height: 100px;
+	background-color: #000088;
+	display: flex;
+	backface-visibility: hidden;
+}
+a{
+	color: #fff;
+}
