@@ -1,4 +1,10 @@
-
+/* 
+	npm i webpack-dev-server -D 安装
+	
+	
+	npx webpack-dev-server   启动
+ 
+ */
 
 const path = require("path")
 const HtmlWebpackPlugin = require('html-webpack-plugin')

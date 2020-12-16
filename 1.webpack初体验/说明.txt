@@ -2,6 +2,10 @@
 
 
 2 npm i webpack webpack-cli -D    本地安装 开发依赖  -D 相当与 --save-dev
+
+
+
+3 webpack 打包
  
 
 
